@@ -1,4 +1,4 @@
-## Sentiment Analysis [[view code]](https://nbviewer.org/github/sheidheda/sentiment_analysis/blob/main/notebooks/sentiment-analysis.ipynb) 
+## Sentiment Analysis [[view code]](https://github.com/Enyaude/sentiment_analysis/blob/master/notebooks/sentiment-analysis.ipynb) 
 ![image title](https://img.shields.io/badge/python-v3.6-green.svg) ![image title](https://img.shields.io/badge/ntlk-v3.2.5-yellow.svg) ![Image title](https://img.shields.io/badge/sklearn-0.19.1-orange.svg) ![Image title](https://img.shields.io/badge/pandas-0.22.0-red.svg) ![Image title](https://img.shields.io/badge/matplotlib-v2.1.2-orange.svg) ![Image title](https://img.shields.io/badge/gensim-0.3.4-blue.svg)
 
 The code is also available [here](https://nbviewer.org/github/sheidheda/sentiment_analysis/blob/main/notebooks/sentiment-analysis.ipynb)
